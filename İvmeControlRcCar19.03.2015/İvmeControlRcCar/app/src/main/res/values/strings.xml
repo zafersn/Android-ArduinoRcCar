@@ -1,0 +1,26 @@
+<resources>
+<string name="app_name">İvmeControlRcCar</string>
+
+<string name="hello_world">Hello world!</string>
+<string name="action_settings">Settings</string>
+    <!--  BluetoothChat -->
+    <string name="send">Send</string>
+    <string name="not_connected">Cihaza Bağlı değilsiniz.</string>
+    <string name="bt_not_enabled_leaving">Bluetooth açık değil, uygulamadan çıkılıyor...</string>
+    <string name="title_connecting">Bağlanıyor...</string>
+    <string name="title_connected_to">Bağlandı: </string>
+    <string name="title_not_connected">Bağlı Değil</string>
+
+    <!--  DeviceListActivity -->
+    <string name="scanning">Cihazlar taranıyor...</string>
+    <string name="select_device">Bağlanacak cihazı seçin</string>
+    <string name="none_paired">Eşleşilmiş Cihaz Yok</string>
+    <string name="none_found">Cihaz Bulunamadı</string>
+    <string name="title_paired_devices">Eşleşilmiş Cihazlar</string>
+    <string name="title_other_devices">Diğer Uygun Cihazlar</string>
+    <string name="button_scan">Cihaz Tara</string>
+    <string name="zafer_sen">Powered by Zafer M.ŞEN\nwww.stackcuriosity.com</string>
+    <!-- Options Menu -->
+    <string name="connect">Cihaza Bağlan</string>
+    <string name="discoverable">Görünür Yap</string>
+</resources>
